@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pencarian User GitHub</string>
+    <string name="change_language">Ubah Pengaturan Bahasa</string>
+    <string name="name">Nama</string>
+    <string name="username">Username</string>
+    <string name="company">%s</string>
+    <string name="location">%s</string>
+    <string name="repository">Repositori</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="numbers">00</string>
+    <string name="ava">Avatar</string>
+    <string name="hints">Temukan Username</string>
+    <string name="error">Error</string>
+    <string name="tab_text_1">Mengikuti</string>
+    <string name="tab_text_2">Pengikut</string>
+    <string name="fav_menu">Ke User Favorit</string>
+    <string name="removefav">telah dihapus dari User Favorit</string>
+    <string name="addFav">telah ditambahkan ke User Favorit</string>
+    <string name="reminder">Buat Pengingat</string>
+    <string name="doubleuser">sudah di Favoritkan</string>
+    <string name="notification_msg">Jangan lupa cek user favoritmu!</string>
+
+</resources>
